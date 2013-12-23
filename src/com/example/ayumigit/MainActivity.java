@@ -6,6 +6,8 @@ import android.view.Menu;
 
 // これはGitの練習のためのコメントです。
 
+//こんにちわ。今井です
+
 public class MainActivity extends Activity {
 
 	@Override
